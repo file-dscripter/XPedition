@@ -1,3 +1,3 @@
 import tkinter
 
-print("hellow world")
+print("hello world")
