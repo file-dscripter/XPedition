@@ -1,2 +1,2 @@
 # XPedition
-A simple point farming bot made in C++ that quickly gets points for any memrise course.
+A simple memrise point farming bot made in C++ that quickly gets points for any memrise course.
