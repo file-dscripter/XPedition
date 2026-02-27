@@ -2,7 +2,7 @@ CC=clang++
 CFLAGS= -std=c++17 -Wall -Wextra -I/opt/homebrew/include
 LDFLAGS= -L/opt/homebrew/lib -Wl,-rpath,/opt/homebrew/lib -lSDL3 -lm 
 
-SRC= *.cpp
+SRC= /bot/*.cpp
 OUT=XPedition
 
 all: build
